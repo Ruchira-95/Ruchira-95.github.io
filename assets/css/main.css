@@ -3249,3 +3249,6 @@ input, select, textarea {
 		height: 100%;
 	}
 		
+	.video-container.portrait {
+		padding-bottom: 177.78%; /* 9:16 aspect ratio for portrait mode */
+	}
